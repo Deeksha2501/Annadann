@@ -21,5 +21,7 @@ This website is made by:<br>
 <br>
 <br>
 <br>
+<br>
+<br>
 <img align="right" width="29%"  src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/ann-res.png">
 <br>
