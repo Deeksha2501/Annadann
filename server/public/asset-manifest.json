@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58a65952.chunk.css",
+    "main.js": "/static/js/main.b72d9964.chunk.js",
+    "main.js.map": "/static/js/main.b72d9964.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7bc9ad86.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7bc9ad86.js.map",
+    "static/js/2.12cb913e.chunk.js": "/static/js/2.12cb913e.chunk.js",
+    "static/js/2.12cb913e.chunk.js.map": "/static/js/2.12cb913e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c100ed700adcdd11aaf57ffae9d15cbf.js": "/precache-manifest.c100ed700adcdd11aaf57ffae9d15cbf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.58a65952.chunk.css.map": "/static/css/main.58a65952.chunk.css.map",
+    "static/js/2.12cb913e.chunk.js.LICENSE.txt": "/static/js/2.12cb913e.chunk.js.LICENSE.txt",
+    "static/media/aboutUs.jpg": "/static/media/aboutUs.4a847a1f.jpg",
+    "static/media/bg-stats.jpg": "/static/media/bg-stats.501afd7b.jpg",
+    "static/media/bg1.jpeg": "/static/media/bg1.7bccbfb9.jpeg",
+    "static/media/bg2.jpg": "/static/media/bg2.fbce5842.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.68beb7b2.jpg",
+    "static/media/bg4.jpg": "/static/media/bg4.42c3a6bc.jpg",
+    "static/media/footer.css": "/static/media/bgimage.06418acb.jpeg",
+    "static/media/camps.png": "/static/media/camps.eea867c2.png",
+    "static/media/donate.png": "/static/media/donate.f214ca88.png",
+    "static/media/donation-day-doodle-concept-pattern-background-vector-thank-you-page-blood-donors-website-boy-holds-heart-as-life-188319458.jpg": "/static/media/donation-day-doodle-concept-pattern-background-vector-thank-you-page-blood-donors-website-boy-holds-heart-as-life-188319458.d42c904d.jpg",
+    "static/media/dropC.png": "/static/media/dropC.fc51314b.png",
+    "static/media/dropping-centers-dos-and-dont.png": "/static/media/dropping-centers-dos-and-dont.0eb4909f.png",
+    "static/media/map.png": "/static/media/map.71f2180b.png",
+    "static/media/search-1756278_640.jpg": "/static/media/search-1756278_640.ccade238.jpg",
+    "static/media/signup.css": "/static/media/stock-vector-hands-holding-red-heart-receive-or-accept-love-kindness-care-help-donation-or-hope-charity-1031440357.57d3228e.jpg",
+    "static/media/vol.png": "/static/media/vol.bb180a53.png",
+    "static/media/write.png": "/static/media/write.168b4407.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc9ad86.js",
+    "static/js/2.12cb913e.chunk.js",
+    "static/css/main.58a65952.chunk.css",
+    "static/js/main.b72d9964.chunk.js"
+  ]
+}
