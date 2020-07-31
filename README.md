@@ -16,7 +16,7 @@ This website is made by:<br>
 
 ### Screenshots of the website
 <a href="https://annadanngo.herokuapp.com/">
-<img align="left" width="65%" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/annfull.png">
+<img align="left" width="65%" src="https://github.com/Deeksha2501/Deeksha2501/blob/master/resources/anndannfull.png">
 </a>
 <br>
 <br>
