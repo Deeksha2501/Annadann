@@ -4,7 +4,7 @@ Also, there are people who are willing to help and send food for the needy but t
 This is a [web application](https://annadanngo.herokuapp.com/) which will be a medium between people who works towards feeding underprivileged people and people like us who want to help.<br>
 [Link to the website](https://annadanngo.herokuapp.com/)
 - No hard-coded data, can be used by any organisation.
-- Layout contains of major information about the organization goals and undertaken activities.
+- Layout contains major information about the organization goals and undertaken activities.
 - Any one who wan't to use this template can contact any of the three contributors(it is an open source project).
 - Responsive Design.
 
