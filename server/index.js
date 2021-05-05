@@ -60,9 +60,16 @@ connect.then(
 app.use("/auth", auth);
 app.use("/donate", donor);
 
+
 app.get("*", (req, res) => {
+  // res.send("Hello!, server is running")
+  console.log('object');
   res.sendFile(path.resolve(__dirname, "public", "index.html"));
 });
+
+// app.get("/", (req, res)=>{
+//   res.send("hey");
+// })
 
 const server = http.createServer(app);
 

@@ -6,11 +6,14 @@ var passport = require("passport");
 var authenticate = require("../authenticate");
 router.use(bodyParser.json());
 router.post("/signup", (req, res, next) => {
+  // console.log("Hii !! nfjkernfkvrnkfvrk");
+  console.log({ username: req.body.username, password: req.body.password })
   User.register(
-    new User({ username: req.body.username, password: req.body.password }),
+    new User({ username: req.body.username, password: req.body.password, contactNumber : req.body.contactNumber, name : req.body.name }),
     req.body.password,
     (err, user) => {
       if (err) {
+        console.log(err);
         res.statusCode = 500;
         res.setHeader("Content-Type", "application/json");
         res.json({ err: err });
@@ -52,6 +55,7 @@ router.post("/login", passport.authenticate("local"), (req, res) => {
 });
 
 router.get("/logout", (req, res) => {
+  console.log("Deeksha");
   req.logout();
   res.redirect("https://annadanngo.herokuapp.com/");
 });
