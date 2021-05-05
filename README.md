@@ -8,6 +8,11 @@ This is a [web application](https://annadanngo.herokuapp.com/) which will be a m
 - Any one who wan't to use this template can contact any of the three contributors(it is an open source project).
 - Responsive Design.
 
+## Installation
+    npm install
+    cd server && npm install
+    npm start
+
 #### Contributors
 This website is made by:<br>
 1- [Deeksha Sharma](https://github.com/Deeksha2501)<br>
